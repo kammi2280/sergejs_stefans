@@ -66,7 +66,7 @@ Vards paradisies tava vardu saraksta un macibu kartites.
 
 ## Autors
 
-Vards Uzvards
+Stefans_Baranovskis
 
 ---
 
