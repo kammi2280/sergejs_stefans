@@ -67,7 +67,7 @@ Celojuma plans bus pieejams sadala "Mani celojumi".
 
 ## Autors
 
-Vards Uzvards
+Stefans_Sergejs
 
 ---
 
