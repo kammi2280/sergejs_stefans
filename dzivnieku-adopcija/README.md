@@ -67,7 +67,7 @@ Patversme sazinasies ar tevi 2-3 darba dienu laika.
 
 ## Autors
 
-Vards Uzvards
+Stefans_Sergejs
 
 ---
 
