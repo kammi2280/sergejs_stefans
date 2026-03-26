@@ -65,7 +65,7 @@ Saraksts bus pieejams sadala "Mani saraksti".
 
 ## Autors
 
-Vards Uzvards
+Sergejs_Stefans
 
 ---
 
