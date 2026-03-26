@@ -69,7 +69,7 @@ Merkis: pec iespejas mazak gajienu un isaks laiks.
 
 ## Autors
 
-Vards Uzvards
+Stefans_Sergejs
 
 ---
 
